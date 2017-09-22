@@ -12,9 +12,64 @@ pvp:
   - "353:0:3"
   Effects:
   - 1:30
-Knight:
+knight:
   time:
-  name: Knight
+  name: knight
   Content:
- 
+  - "310
+  - "311
+  - "312
+  - "313
+  - "
+  - "
+  Effects:
+  - 1:120
+titan:
+  time:
+  name: titan
+  Content:
+  -
+  -
+  -
+  -
+  Effects:
+  - 1:240
+overlord:
+  time:
+  name: overlord
+  Content:
+  -
+  -
+  -
+  -
+  -
+  -
+  Effects:
+  - 1:480
+ultra:
+  time:
+  name: ultra
+  Content:
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  Effects:
+  - 1:960
+legend:
+  time:
+  name: legend
+  Content:
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  Effects:
+  - 1:1920
 ...
