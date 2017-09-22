@@ -12,4 +12,9 @@ pvp:
   - "353:0:3"
   Effects:
   - 1:30
+Knight:
+  time:
+  name: Knight
+  Content:
+ 
 ...
