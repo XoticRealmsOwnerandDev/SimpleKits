@@ -190,7 +190,7 @@ class main extends PluginBase implements Listener{
 						$sender->sendMessage("§b§l>§r§c You already got a kit!");
 					}
 				}else {
-					$sender->sendMessage("§b§l>§r§c Kit does not exsist! check /kit!");
+					$sender->sendMessage("§b§l>§r§c Kit does not exsist, you are so dumb check /kit!");
 				}
 				return true;
 				}else {
