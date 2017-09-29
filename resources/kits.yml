@@ -11,7 +11,7 @@ pvp:
   - "364:0:12"
   - "353:0:3"
   Effects:
-  - 1:30
+  - "1:30"
 hero:
   time: 3600
   name: hero
@@ -33,7 +33,7 @@ hero:
   - "42:0:16"
   - "57:0:16"
   Effects:
-  - 1:120
+  - "1:120"
 knight:
   time: 3600
   name: knight
@@ -57,7 +57,7 @@ knight:
   - "42:0:32"
   - "57:0:32"
   Effects:
-  - 1:120
+  - "1:120"
 titan:
   time: 3600
   name: titan
@@ -81,7 +81,7 @@ titan:
   - "42:0:48"
   - "57:0:48"
   Effects:
-  - 1:240
+  - "1:240"
 overlord:
   time: 3600
   name: overlord
@@ -106,7 +106,7 @@ overlord:
   - "42:0:64"
   - "57:0:64"
   Effects:
-  - 1:480
+  - "1:480"
 ultra:
   time: 3600
   name: ultra
@@ -134,7 +134,7 @@ ultra:
   - "57:0:64"
   - "57:0:16"
   Effects:
-  - 1:960
+  - "1:960"
 legend:
   time: 3600
   name: legend
@@ -164,5 +164,5 @@ legend:
   - "57:0:64"
   - "57:0:16"
   Effects:
-  - 1:1920
+  - "1:1920"
 ...
